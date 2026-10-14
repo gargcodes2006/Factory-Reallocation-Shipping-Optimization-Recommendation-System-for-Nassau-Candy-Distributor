@@ -1,0 +1,13 @@
+factory_id,destination_id,shipping_cost_per_unit,distance_miles
+F1,D1,1.20,210
+F1,D2,0.90,100
+F1,D3,2.50,640
+F1,D4,2.80,560
+F2,D1,1.50,240
+F2,D2,0.70,85
+F2,D3,2.30,600
+F2,D4,2.60,530
+F3,D1,2.00,310
+F3,D2,0.60,60
+F3,D3,2.10,520
+F3,D4,1.90,400

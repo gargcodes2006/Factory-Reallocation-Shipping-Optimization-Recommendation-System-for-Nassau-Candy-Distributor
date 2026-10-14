@@ -1,0 +1,5 @@
+destination_id,destination_name,location,demand
+D1,Northeast DC,Boston MA,2500
+D2,Mid-Atlantic DC,Philadelphia PA,3000
+D3,Southeast DC,Charlotte NC,2000
+D4,Midwest DC,Columbus OH,1800

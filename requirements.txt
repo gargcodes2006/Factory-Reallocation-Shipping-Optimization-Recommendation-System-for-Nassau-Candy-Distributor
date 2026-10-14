@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+pulp>=2.7,<3
+streamlit>=1.28
+plotly>=5.15
+pytest>=7.4

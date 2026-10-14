@@ -1,0 +1,4 @@
+factory_id,factory_name,location,production_capacity,production_cost_per_unit
+F1,Hicksville Plant,Hicksville NY,5000,2.50
+F2,Edison Facility,Edison NJ,4000,2.80
+F3,Allentown Works,Allentown PA,3500,2.30
